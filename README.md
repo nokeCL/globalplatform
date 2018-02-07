@@ -1,2 +1,4 @@
 # globalplatform
-GlobalPlatform App. application based in blockchain of Ethereum Smartcontracts E-Commerce ETC
+GlobalPlatform App. 
+Application based in blockchain of Ethereum Smartcontracts E-Commerce Wallets administrator, Finance Adminstrator.
+www.globalplatform.net
