@@ -1,5 +1,6 @@
 # globalplatform
 GlobalPlatform App. 
-Application based in blockchain of Ethereum Smartcontracts E-Commerce Wallets administrator, Finance Adminstrator.
+Aplicación Descentralizada / Decentralized Application, based in blockchain of Ethereum Smartcontracts E-Commerce Wallets administrator, Finance Adminstrator.
 www.globalplatform.net
-symbology GP. 
+MAIL: contacto@globalplatform.net
+symbology gp™. 
